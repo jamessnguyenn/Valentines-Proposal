@@ -32,7 +32,7 @@ function App() {
     "Wrong button! 💕",
     "Come on, you know the answer! 🥰",
     "Don't be shy! 💞",
-    "Yes is right there! ☝️",
+    "Yes is right there! 👇",
     "Pretty please? 🥺",
     "You're breaking my heart! 💔"
   ]
