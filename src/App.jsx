@@ -296,7 +296,7 @@ function App() {
                 transition={{ delay: 0.6, duration: 0.5 }}
               >
                 <span className="celebration-emoji">💕</span>
-                <span className="celebration-emoji">💑</span>
+                <span className="celebration-emoji">👩‍❤️‍💋‍👨 </span>
                 <span className="celebration-emoji">💕</span>
               </motion.div>
             </div>
