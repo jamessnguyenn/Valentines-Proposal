@@ -319,11 +319,11 @@ body {
 .letter-text {
   position: absolute;
   top: clamp(28px, 12vh, 40px);
-  right: clamp(12px, 6vw, 28px);
+  right: clamp(12px, 6vw, 15px);
   font-size: clamp(0.9rem, 3.2vw, 1.3rem);
-  color: var(--color-primary);
+  color: black;
   font-weight: 500;
-  font-family: 'Quicksand', cursive;
+  font-family: 'Apple Chancery', cursive;
   letter-spacing: 1px;
   margin: 0;
   text-align: right;
